@@ -1,0 +1,54 @@
+{
+  "name": "Root",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Folder 1",
+      "type": "folder",
+      "children": [
+        {
+          "name": "File 1",
+          "type": "file"
+        },
+        {
+          "name": "File 2",
+          "type": "file"
+        },
+        {
+          "name": "Subfolder 1",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Subfile 1",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Folder 2",
+      "type": "folder",
+      "children": [
+        {
+          "name": "File 3",
+          "type": "file"
+        },
+        {
+          "name": "Subfolder 2",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Subfile 1",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "File 4",
+      "type": "file"
+    }
+  ]
+}
